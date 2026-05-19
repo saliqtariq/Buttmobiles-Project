@@ -62,7 +62,7 @@ export function CartDrawer() {
     const totalText = `${totalCurrency} ${cartTotal.toLocaleString()}`;
 
     // Elegant message structure
-    const message = `Hello ButtMobiles! 👋
+    const message = `Hello HsMobile! 👋
 
 I would like to place an order for the following items:
 
