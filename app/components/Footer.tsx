@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-black text-white pt-16 pb-8 border-t border-zinc-900">
       <div className="max-w-7xl mx-auto px-4 md:px-8 grid grid-cols-1 md:grid-cols-4 gap-12">
         <div>
-          <h3 className="text-xl font-black uppercase tracking-tighter italic mb-6">HSMOBILE</h3>
+          <h3 className="text-xl font-black uppercase tracking-tighter italic mb-6">DEMOTITLE</h3>
           <p className="text-white text-sm font-medium leading-relaxed">
             Premium gaming audio, flagship devices, and elite accessories engineered for maximum performance.
           </p>
@@ -21,7 +21,7 @@ export function Footer() {
             Need help choosing the right gear? Chat with our support team on WhatsApp.
           </p>
           <a
-            href="https://wa.me/15551234567?text=Hi%20HsMobile%20team%2C%20I%20need%20help%20with%20my%20order"
+            href="https://wa.me/15551234567?text=Hi%20DemoTitle%20team%2C%20I%20need%20help%20with%20my%20order"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center bg-green-500 text-black font-bold uppercase tracking-wider px-5 py-3 hover:bg-green-400 transition-colors rounded-md"
@@ -33,7 +33,7 @@ export function Footer() {
 
       <div className="max-w-7xl mx-auto px-4 md:px-8 mt-16 pt-8 border-t border-zinc-900 text-center md:text-left flex flex-col md:flex-row justify-between items-center gap-4">
         <p className="text-zinc-500 text-xs uppercase font-bold tracking-widest">
-          &copy; {new Date().getFullYear()} HSMOBILE. All Rights Reserved.
+          &copy; {new Date().getFullYear()} DEMOTITLE. All Rights Reserved.
         </p>
         <div className="flex gap-4">
           <button className="text-zinc-500 text-xs font-bold uppercase tracking-widest hover:text-white cursor-pointer transition-colors">

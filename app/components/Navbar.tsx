@@ -50,7 +50,7 @@ export function Navbar() {
         </div>
 
         <Link href="/" className="shrink-0 flex items-center cursor-pointer">
-          <span className="text-2xl font-black tracking-tighter text-white uppercase italic">HSMOBILE</span>
+          <span className="text-2xl font-black tracking-tighter text-white uppercase italic">DEMOTITLE</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">

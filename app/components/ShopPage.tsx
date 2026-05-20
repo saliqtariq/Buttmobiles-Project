@@ -36,7 +36,7 @@ export function ShopPage({ category, searchQuery }: { category?: string; searchQ
               ? `Browse our premium selection of ${category} designed for maximum performance and durability.`
               : searchQuery
               ? `Showing results for "${searchQuery}"`
-              : "Explore the complete HsMobile collection. High-performance gaming gear and flagship devices."}
+              : "Explore the complete DemoTitle collection. High-performance gaming gear and flagship devices."}
           </p>
         </div>
 

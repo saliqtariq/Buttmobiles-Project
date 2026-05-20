@@ -9,8 +9,8 @@ export function HeroSection() {
     <section className="relative w-full bg-zinc-900 overflow-hidden min-h-[55vh]">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/HsMobile.png"
-          alt="HsMobile"
+          src="/fixeddemopic.png"
+          alt="DemoTitle"
           fill
           priority
           className="object-cover object-center opacity-40"
