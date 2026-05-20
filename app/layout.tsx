@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "DemoTitle",
+  title: "DemoMobile",
   description: "Premium gaming audio, flagship devices, and elite accessories engineered for maximum performance.",
 };
 
